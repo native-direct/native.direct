@@ -9,7 +9,7 @@ standards:
 baseline_status_with_date_and_source: "@starting-style: Baseline Newly available 2024-08-06. Source: webstatus.dev id:starting-style (via browser-features.md, as of 2026-10-30)"
 sources:
   - "https://github.com/Autocss-com/cdn/blob/main/assets/css/transitions.css [CODE]"
-  - "https://github.com/Autocss-com/ai/blob/main/.agents/skills/css/references/starting-style.md [AI-INST: topic only]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/.agents/skills/css/references/starting-style.md [AI-INST: topic only]"
 references:
   - "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@starting-style"
   - "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/transition-behavior"

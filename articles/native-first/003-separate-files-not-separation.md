@@ -9,7 +9,7 @@ standards:
 baseline_status_with_date_and_source: "n/a: authoring practice"
 sources:
   - "https://github.com/D7460N/starter/blob/main/README.md (§ Decoupled to the point of air-gap) [OWN*: re-voice]"
-  - "https://github.com/Autocss-com/ai/blob/main/AGENTS.md (§ Architecture Tests) [AI-INST: topic only]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/AGENTS.md (§ Architecture Tests) [AI-INST: topic only]"
 references:
   - "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes"
   - "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/data-*"

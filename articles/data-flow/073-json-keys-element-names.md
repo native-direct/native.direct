@@ -8,7 +8,7 @@ standards:
 baseline_status_with_date_and_source: "UNVERIFIED: not in research files; check the MDN banner or webstatus.dev before publishing"
 sources:
   - "https://github.com/Autocss-com/cdn/blob/main/assets/js/to-tag-name.js [CODE]"
-  - "https://github.com/Autocss-com/ai/blob/main/.agents/skills/data-flow/references/totagname.md [AI-INST: topic only]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/.agents/skills/data-flow/references/totagname.md [AI-INST: topic only]"
 references:
   - "https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements"
 autocss_link: "HTML — structure only"

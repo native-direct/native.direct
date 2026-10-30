@@ -7,7 +7,7 @@ standards:
   - "Abstraction cost (principle)"
 baseline_status_with_date_and_source: "n/a: principle or pattern, not one browser feature"
 sources:
-  - "https://github.com/Autocss-com/ai/blob/main/AGENTS.md (§ Abstraction Rule) [AI-INST: topic only, write fresh]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/AGENTS.md (§ Abstraction Rule) [AI-INST: topic only, write fresh]"
 references:
   - "none in research files"
 autocss_link: "Abstraction Rule"

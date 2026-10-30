@@ -9,8 +9,8 @@ standards:
   - "Element.innerHTML (what to avoid)"
 baseline_status_with_date_and_source: "textContent: Baseline Widely available, across browsers since July 2015. Source: MDN page banner, read 2026-10-30 via MDN MCP"
 sources:
-  - "https://github.com/Autocss-com/ai/blob/main/AGENTS.md (§ JSON — data only) [AI-INST: topic only]"
-  - "https://github.com/Autocss-com/ai/blob/main/.agents/skills/json/references/forbidden.md [AI-INST: topic only]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/AGENTS.md (§ JSON — data only) [AI-INST: topic only]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/.agents/skills/json/references/forbidden.md [AI-INST: topic only]"
   - "https://github.com/D7460N/starter/blob/main/README.md (forbidden-pattern table) [OWN*: re-voice]"
 references:
   - "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON"

@@ -8,7 +8,7 @@ standards:
   - "ARIA (what not to add)"
 baseline_status_with_date_and_source: "n/a: principle or pattern, not one browser feature"
 sources:
-  - "https://github.com/Autocss-com/ai/blob/main/AGENTS.md (§ HTML — structure only states the fix) [AI-INST: topic only]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/AGENTS.md (§ HTML — structure only states the fix) [AI-INST: topic only]"
   - "https://github.com/Autocss-com/autocss/issues/101 [issue]"
   - "https://github.com/Autocss-com/cdn/blob/main/index.html (hidden inputs in labels) [CODE]"
 references:

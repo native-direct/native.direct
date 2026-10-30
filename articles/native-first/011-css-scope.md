@@ -7,7 +7,7 @@ standards:
   - "@scope"
 baseline_status_with_date_and_source: "Baseline Newly available 2026-03-24. Source: webstatus.dev id:scope; web.dev Baseline 2026 page (via browser-features.md, as of 2026-10-30)"
 sources:
-  - "https://github.com/Autocss-com/ai/blob/main/AGENTS.md (§ CSS — the UI runtime names @layer and @scope) [AI-INST: topic only]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/AGENTS.md (§ CSS — the UI runtime names @layer and @scope) [AI-INST: topic only]"
 references:
   - "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@scope"
   - "https://drafts.csswg.org/css-cascade-6/#scope-atrule"

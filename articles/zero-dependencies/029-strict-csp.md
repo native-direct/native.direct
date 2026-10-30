@@ -9,7 +9,7 @@ baseline_status_with_date_and_source: "UNVERIFIED: not in research files; check 
 sources:
   - "https://github.com/D7460N/starter/blob/main/README.md (§ Secure by design: forbidden-pattern table, CSP block) [OWN*]"
   - "https://github.com/D7460N/D7460N.dev/blob/main/ADD.md (opening quote) [OWN]"
-  - "https://github.com/Autocss-com/ai/blob/main/.agents/skills/security/references/csp.md [AI-INST: topic only]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/.agents/skills/security/references/csp.md [AI-INST: topic only]"
 references:
   - "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CSP"
   - "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Content-Security-Policy"

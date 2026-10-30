@@ -10,7 +10,7 @@ standards:
 baseline_status_with_date_and_source: "UNVERIFIED: not in research files; check the MDN banner or webstatus.dev before publishing"
 sources:
   - "https://github.com/D7460N/DHCP/blob/main/docs/dev/forms.md [OWN*]"
-  - "https://github.com/Autocss-com/ai/blob/main/.agents/skills/html/references/forms.md [AI-INST: topic only]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/.agents/skills/html/references/forms.md [AI-INST: topic only]"
 references:
   - "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/fieldset"
   - "https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/How_to_structure_a_web_form"

@@ -9,7 +9,7 @@ standards:
 baseline_status_with_date_and_source: "UNVERIFIED: not in research files; check the MDN banner or webstatus.dev before publishing"
 sources:
   - "https://github.com/D7460N/D7460N.dev/blob/main/ADD.md (§ Intrinsic Design; credits Jen Simmons: name and link) [OWN, CREDIT]"
-  - "https://github.com/Autocss-com/ai/blob/main/AGENTS.md (§ CSS — the UI runtime: no size-based @media; ch units) [AI-INST: topic only]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/AGENTS.md (§ CSS — the UI runtime: no size-based @media; ch units) [AI-INST: topic only]"
 references:
   - "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/clamp"
   - "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/min"

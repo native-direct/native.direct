@@ -10,7 +10,7 @@ baseline_status_with_date_and_source: "UNVERIFIED: not in research files; check 
 sources:
   - "https://github.com/Autocss-com/cdn/blob/main/assets/js/app.js (document.oninput) [CODE, AI-co]"
   - "https://github.com/Autocss-com/cdn/blob/main/assets/js/oninput.js [CODE, AI-co]"
-  - "https://github.com/Autocss-com/ai/blob/main/.agents/skills/javascript/references/lifecycle.md [AI-INST: topic only]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/.agents/skills/javascript/references/lifecycle.md [AI-INST: topic only]"
 references:
   - "https://developer.mozilla.org/en-US/docs/Web/API/Element/input_event"
 autocss_link: "JavaScript — data transport only"

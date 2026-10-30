@@ -10,7 +10,7 @@ sources:
   - "https://github.com/D7460N/D7460N.dev/blob/main/ADD.md (§ Custom HTML Elements; cites Jim Nielsen: credit by name and link, URL to add) [OWN, CREDIT]"
   - "https://github.com/dragontheory/D7460N-with-db/blob/main/README.md (Custom HTML Elements bullets) [OWN]"
   - "https://github.com/Autocss-com/cdn/blob/main/index.html [CODE]"
-  - "https://github.com/Autocss-com/ai/blob/main/.agents/skills/html/references/custom-elements.md (when not to invent a tag) [AI-INST: topic only]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/.agents/skills/html/references/custom-elements.md (when not to invent a tag) [AI-INST: topic only]"
 references:
   - "https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements"
   - "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:defined"

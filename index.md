@@ -7,7 +7,7 @@ Counts: first series 15 · backlog 77 in 10 series · files 92.
 How to read:
 - Baseline status is as of 2026-10-30 unless a file says otherwise. UNVERIFIED = check before publishing.
 - Reuse codes from `repos.md`: OWN = his prose (paraphrase) · OWN* = AI-polished (re-voice) · AI-DOC / AI-INST = topic only · CODE = show, credit, verify · CREDIT = name and link the original author.
-- Short source names: ADD = https://github.com/D7460N/D7460N.dev/blob/main/ADD.md · DB#n = https://github.com/dragontheory/D7460N-with-db/issues/n · DBR = https://github.com/dragontheory/D7460N-with-db/blob/main/README.md · D7R = https://github.com/dragontheory/D7460N/blob/main/README.md · THOR = https://github.com/dragontheory/THOR/blob/master/README.md · STR = https://github.com/D7460N/starter/blob/main/README.md · CDN = https://github.com/Autocss-com/cdn · DHCP = https://github.com/D7460N/DHCP · AI = https://github.com/Autocss-com/ai
+- Short source names: ADD = https://github.com/D7460N/D7460N.dev/blob/main/ADD.md · DB#n = https://github.com/dragontheory/D7460N-with-db/issues/n · DBR = https://github.com/dragontheory/D7460N-with-db/blob/main/README.md · D7R = https://github.com/dragontheory/D7460N/blob/main/README.md · THOR = https://github.com/dragontheory/THOR/blob/master/README.md · STR = https://github.com/D7460N/starter/blob/main/README.md · CDN = https://github.com/Autocss-com/cdn · DHCP = https://github.com/D7460N/DHCP · AI = https://github.com/D7460N-ai/D7460N.ai
 - Full URLs, references and outlines are in each file.
 
 ## First series: Native first

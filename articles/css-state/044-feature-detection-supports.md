@@ -10,7 +10,7 @@ baseline_status_with_date_and_source: "UNVERIFIED: not in research files; check 
 sources:
   - "https://github.com/D7460N/DHCP/blob/main/assets/css/_browser-support.css [CODE]"
   - "https://github.com/D7460N/D7460N.dev/blob/main/ADD.md (§ CSS @supports) [OWN]"
-  - "https://github.com/Autocss-com/ai/blob/main/.agents/skills/css/references/feature-detection.md [AI-INST: topic only]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/.agents/skills/css/references/feature-detection.md [AI-INST: topic only]"
 references:
   - "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@supports"
 autocss_link: "CSS — the UI runtime"

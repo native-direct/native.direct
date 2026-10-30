@@ -10,7 +10,7 @@ standards:
 baseline_status_with_date_and_source: ":user-valid / :user-invalid: Baseline Widely available 2026-05-02 (Newly 2023-11-02). Source: webstatus.dev id:user-pseudos (via browser-features.md, as of 2026-10-30)"
 sources:
   - "https://github.com/D7460N/DHCP/blob/main/assets/css/forms.css (incl. form:has(:invalid)) [CODE]"
-  - "https://github.com/Autocss-com/ai/blob/main/.agents/skills/css/references/inputs.md [AI-INST: topic only]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/.agents/skills/css/references/inputs.md [AI-INST: topic only]"
 references:
   - "https://developer.mozilla.org/docs/Web/CSS/Reference/Selectors/:user-invalid"
   - "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:invalid"

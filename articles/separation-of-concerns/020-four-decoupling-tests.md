@@ -7,7 +7,7 @@ standards:
   - "Separation-of-concerns self-test"
 baseline_status_with_date_and_source: "n/a: principle or pattern, not one browser feature"
 sources:
-  - "https://github.com/Autocss-com/ai/blob/main/AGENTS.md (§ Architecture Tests) [AI-INST: topic only, write fresh]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/AGENTS.md (§ Architecture Tests) [AI-INST: topic only, write fresh]"
 references:
   - "https://developer.mozilla.org/en-US/docs/Glossary/MVC"
 autocss_link: "Architecture Tests"

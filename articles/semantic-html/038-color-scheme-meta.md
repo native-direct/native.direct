@@ -10,7 +10,7 @@ baseline_status_with_date_and_source: "UNVERIFIED: not in research files; check 
 sources:
   - "https://github.com/dragontheory/D7460N-with-db/issues/4 [OWN]"
   - "https://github.com/dragontheory/color-themes-system/blob/main/index.html [CODE]"
-  - "https://github.com/Autocss-com/ai/blob/main/AGENTS.md (§ HTML — structure only) [AI-INST: topic only]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/AGENTS.md (§ HTML — structure only) [AI-INST: topic only]"
 references:
   - "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meta/name/color-scheme"
   - "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/color-scheme"

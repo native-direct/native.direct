@@ -10,7 +10,7 @@ baseline_status_with_date_and_source: "UNVERIFIED: not in research files; check 
 sources:
   - "https://github.com/D7460N/DHCP/blob/main/assets/css/README.md (Visibility Logic) [OWN*]"
   - "https://github.com/Autocss-com/cdn/blob/main/assets/css/layout.css [CODE]"
-  - "https://github.com/Autocss-com/ai/blob/main/.agents/skills/css/references/reactivity.md [AI-INST: topic only]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/.agents/skills/css/references/reactivity.md [AI-INST: topic only]"
 references:
   - "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:empty"
   - "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:not"

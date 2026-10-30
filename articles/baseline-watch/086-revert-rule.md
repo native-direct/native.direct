@@ -8,7 +8,7 @@ standards:
 baseline_status_with_date_and_source: "Baseline Newly available 2026-09-14. Source: webstatus.dev id:revert-rule (via browser-features.md, as of 2026-10-30)"
 sources:
   - "https://github.com/dragontheory/color-themes-system/blob/main/assets/css/themes.css (uses !important: the before case) [CODE]"
-  - "https://github.com/Autocss-com/ai/blob/main/AGENTS.md (§ CSS — the UI runtime: no !important) [AI-INST: topic only]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/AGENTS.md (§ CSS — the UI runtime: no !important) [AI-INST: topic only]"
 references:
   - "https://developer.mozilla.org/docs/Web/CSS/Reference/Values/revert-rule"
   - "https://drafts.csswg.org/css-cascade-5/#revert-rule-keyword"

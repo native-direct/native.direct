@@ -8,7 +8,7 @@ standards:
   - "Element.innerHTML"
 baseline_status_with_date_and_source: "textContent: Baseline Widely available, across browsers since July 2015. Source: MDN page banner, read 2026-10-30 via MDN MCP"
 sources:
-  - "https://github.com/Autocss-com/ai/blob/main/.agents/skills/security/references/sanitization.md [AI-INST: topic only]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/.agents/skills/security/references/sanitization.md [AI-INST: topic only]"
   - "https://github.com/D7460N/starter/blob/main/README.md (forbidden-pattern table) [OWN*]"
 references:
   - "https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent"

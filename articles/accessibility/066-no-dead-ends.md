@@ -8,7 +8,7 @@ standards:
 baseline_status_with_date_and_source: "n/a: principle or pattern, not one browser feature"
 sources:
   - "https://github.com/D7460N/D7460N.dev/blob/main/ADD.md (§ UX To Remember) [OWN]"
-  - "https://github.com/Autocss-com/ai/blob/main/AGENTS.md (§ No Dead-Ends) [AI-INST: topic only]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/AGENTS.md (§ No Dead-Ends) [AI-INST: topic only]"
 references:
   - "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:empty"
 autocss_link: "No Dead-Ends"

@@ -10,7 +10,7 @@ baseline_status_with_date_and_source: "Container size queries: Baseline Widely a
 sources:
   - "https://github.com/D7460N/D7460N.dev/blob/main/ADD.md (§ Container Queries) [OWN]"
   - "https://github.com/dragontheory/chained-css-style-queries/blob/main/assets/css/layout.css (range syntax) [CODE]"
-  - "https://github.com/Autocss-com/ai/blob/main/.agents/skills/css/references/containers.md [AI-INST: topic only]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/.agents/skills/css/references/containers.md [AI-INST: topic only]"
 references:
   - "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@container"
   - "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media"

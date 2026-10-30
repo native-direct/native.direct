@@ -9,7 +9,7 @@ baseline_status_with_date_and_source: "n/a: principle or pattern, not one browse
 sources:
   - "https://github.com/dragontheory/THOR/blob/master/README.md (commented intro) [OWN]"
   - "https://github.com/Fishbowl-Life/fishbowl.life/blob/main/glossary.md [OWN]"
-  - "https://github.com/Autocss-com/ai/blob/main/AGENTS.md (§ Stack: minimally nested, non-obfuscated) [AI-INST: topic only]"
+  - "https://github.com/D7460N-ai/D7460N.ai/blob/main/AGENTS.md (§ Stack: minimally nested, non-obfuscated) [AI-INST: topic only]"
 references:
   - "none in research files"
 autocss_link: "Stack"
